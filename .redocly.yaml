@@ -1,4 +1,4 @@
-organization: untitled_application
+organization: first_application_based_on_bullettrain
 
 extends:
   - recommended
